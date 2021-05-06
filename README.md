@@ -21,4 +21,5 @@ de Digramas UML con la explicación de los procesos
 ### **AUTOR** 🖋️
 
 Grehtlingmar Fernández ♥️
-@greht*
+
+@greht
